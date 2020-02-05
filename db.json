@@ -2,68 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "NAME NAME",
-      "age": 100
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 2
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 3
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 4
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 5
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 6
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 7
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 8
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 9
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 10
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 11
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 12
-    },
-    {
-      "name": "NAME NAME",
-      "age": 100,
-      "id": 13
+      "name": "name",
+      "age": 0
     }
   ]
 }

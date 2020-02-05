@@ -10,3 +10,4 @@ coverage
 # IDE
 .idea
 .vscode
+.cache
